@@ -1,0 +1,9 @@
+body {
+    background-color: lightgoldenrodyellow;
+}
+
+fieldset {
+    background-color: white;
+    display: flex;
+}
+
